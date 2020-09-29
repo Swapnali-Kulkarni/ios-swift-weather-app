@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ios-weather-app/Pods-ios-weather-app-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework
